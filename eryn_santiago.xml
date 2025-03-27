@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <students>
     <student>
-        <picture>student1.jpg</picture>
-        <name>Isaac Robles</name>
-        <course>BSIT</course>
-        <yearLevel>3rd Year</yearLevel>
-        <section>3EG2</section>
-        <advisor>Mr. Eren Fajardo</advisor>
-        <schoolYear>2024-2025</schoolYear>
-    </student>
-    <student>
-        <picture>student2.jpeg</picture>
-        <name>Eryn Santiago</name>
+        <picture>https://i.pinimg.com/736x/66/f3/8c/66f38c115872576ca0aedde840fad982.jpg</picture>
+        <name>Felix Lee</name>
         <course>BSIT</course>
         <yearLevel>3rd Year</yearLevel>
         <section>3BG2</section>
@@ -19,8 +10,8 @@
         <schoolYear>2024-2025</schoolYear>
     </student>
     <student>
-        <picture>student3.jpeg</picture>
-        <name>Kyle Angeles</name>
+        <picture>https://i.pinimg.com/736x/e4/97/cb/e497cb10e634343fa171add71c1946cc.jpg</picture>
+        <name>Ryujin Shin</name>
         <course>BSIT</course>
         <yearLevel>3rd Year</yearLevel>
         <section>3BG2</section>
@@ -28,8 +19,8 @@
         <schoolYear>2024-2025</schoolYear>
     </student>
     <student>
-        <picture>student4.jpeg</picture>
-        <name>Cedric Dela Torre</name>
+        <picture>https://i.pinimg.com/736x/5b/12/c5/5b12c54460281c5380366fbd5e6d078e.jpg</picture>
+        <name>Hyunjin Hwang</name>
         <course>BSIT</course>
         <yearLevel>3rd Year</yearLevel>
         <section>3BG2</section>
@@ -37,8 +28,8 @@
         <schoolYear>2024-2025</schoolYear>
     </student>
     <student>
-        <picture>student5.jpeg</picture>
-        <name>Kurt Rafael</name>
+        <picture>https://i.pinimg.com/736x/aa/1b/7c/aa1b7c9350fb248e132e1b3b6be8eb30.jpg</picture>
+        <name>Renjun Hwang</name>
         <course>BSIT</course>
         <yearLevel>3rd Year</yearLevel>
         <section>3BG2</section>
@@ -46,8 +37,8 @@
         <schoolYear>2024-2025</schoolYear>
     </student>
     <student>
-        <picture>student6.jpeg</picture>
-        <name>Kyle Colet</name>
+        <picture>shttps://i.pinimg.com/736x/a8/80/68/a880689173987327dbc547317c361592.jpg</picture>
+        <name>Giselle Uchinaga</name>
         <course>BSIT</course>
         <yearLevel>3rd Year</yearLevel>
         <section>3BG2</section>
@@ -55,39 +46,48 @@
         <schoolYear>2024-2025</schoolYear>
     </student>
     <student>
-        <picture>student7.jpg</picture>
-        <name>Irish Velasco</name>
+        <picture>https://i.pinimg.com/736x/75/d3/d4/75d3d4169c3642eb4f7c4cd055147be1.jpg</picture>
+        <name>Riki Nishimura</name>
         <course>BSIT</course>
         <yearLevel>3rd Year</yearLevel>
-        <section>3EG2</section>
-        <advisor>Mr. Eren Fajardo</advisor>
+        <section>3BG2</section>
+        <advisor>Mrs. Noemi Reyes</advisor>
         <schoolYear>2024-2025</schoolYear>
     </student>
     <student>
-        <picture>student8.jpg</picture>
-        <name>Tu Tontawan</name>
+        <picture>https://i.pinimg.com/736x/20/9f/a6/209fa6d357fe01193c35e41a09464786.jpg</picture>
+        <name>Jay Park</name>
         <course>BSIT</course>
         <yearLevel>3rd Year</yearLevel>
-        <section>3EG2</section>
-        <advisor>Mr. Eren Fajardo</advisor>
+        <section>3BG2</section>
+        <advisor>Mrs. Noemi Reyes</advisor>
         <schoolYear>2024-2025</schoolYear>
     </student>
     <student>
-        <picture>student9.jpg</picture>
-        <name>Prim Chanikarn</name>
+        <picture>https://i.pinimg.com/736x/40/88/c2/4088c257f911863aee1db328964fa8ab.jpg</picture>
+        <name>Yeji Hwang</name>
         <course>BSIT</course>
         <yearLevel>3rd Year</yearLevel>
-        <section>3AG1</section>
-        <advisor>Ms. Karen Lopez</advisor>
+        <section>3BG2</section>
+        <advisor>Mrs. Noemi Reyes</advisor>
         <schoolYear>2024-2025</schoolYear>
     </student>
     <student>
-        <picture>student10.jpg</picture>
-        <name>Love Pattranite</name>
+        <picture>https://i.pinimg.com/736x/2a/f0/a8/2af0a8e165b4579d8529ec7292e7f691.jpg</picture>
+        <name>Jeno Lee<</name>
         <course>BSIT</course>
         <yearLevel>3rd Year</yearLevel>
-        <section>3FG1</section>
-        <advisor>Mr. Eren Fajardo</advisor>
+        <section>3BG2</section>
+        <advisor>Mrs. Noemi Reyes</advisor>
+        <schoolYear>2024-2025</schoolYear>
+    </student>
+    <student>
+        <picture>https://i.pinimg.com/736x/b0/bf/d4/b0bfd453a4aa389abec033bd08e36e0e.jpg</picture>
+        <name>Sunghoon Park</name>
+        <course>BSIT</course>
+        <yearLevel>3rd Year</yearLevel>
+        <section>3BG2</section>
+        <advisor>Mrs. Noemi Reyes</advisor>
         <schoolYear>2024-2025</schoolYear>
     </student>
 </students>
