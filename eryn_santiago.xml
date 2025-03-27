@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <picture>student1.jpg</picture>
+        <name>Isaac Robles</name>
+        <course>BSIT</course>
+        <yearLevel>3rd Year</yearLevel>
+        <section>3EG2</section>
+        <advisor>Mr. Eren Fajardo</advisor>
+        <schoolYear>2024-2025</schoolYear>
+    </student>
+    <student>
+        <picture>student2.jpeg</picture>
+        <name>Eryn Santiago</name>
+        <course>BSIT</course>
+        <yearLevel>3rd Year</yearLevel>
+        <section>3BG2</section>
+        <advisor>Mrs. Noemi Reyes</advisor>
+        <schoolYear>2024-2025</schoolYear>
+    </student>
+    <student>
+        <picture>student3.jpeg</picture>
+        <name>Kyle Angeles</name>
+        <course>BSIT</course>
+        <yearLevel>3rd Year</yearLevel>
+        <section>3BG2</section>
+        <advisor>Mrs. Noemi Reyes</advisor>
+        <schoolYear>2024-2025</schoolYear>
+    </student>
+    <student>
+        <picture>student4.jpeg</picture>
+        <name>Cedric Dela Torre</name>
+        <course>BSIT</course>
+        <yearLevel>3rd Year</yearLevel>
+        <section>3BG2</section>
+        <advisor>Mrs. Noemi Reyes</advisor>
+        <schoolYear>2024-2025</schoolYear>
+    </student>
+    <student>
+        <picture>student5.jpeg</picture>
+        <name>Kurt Rafael</name>
+        <course>BSIT</course>
+        <yearLevel>3rd Year</yearLevel>
+        <section>3BG2</section>
+        <advisor>Mrs. Noemi Reyes</advisor>
+        <schoolYear>2024-2025</schoolYear>
+    </student>
+    <student>
+        <picture>student6.jpeg</picture>
+        <name>Kyle Colet</name>
+        <course>BSIT</course>
+        <yearLevel>3rd Year</yearLevel>
+        <section>3BG2</section>
+        <advisor>Mrs. Noemi Reyes</advisor>
+        <schoolYear>2024-2025</schoolYear>
+    </student>
+    <student>
+        <picture>student7.jpg</picture>
+        <name>Irish Velasco</name>
+        <course>BSIT</course>
+        <yearLevel>3rd Year</yearLevel>
+        <section>3EG2</section>
+        <advisor>Mr. Eren Fajardo</advisor>
+        <schoolYear>2024-2025</schoolYear>
+    </student>
+    <student>
+        <picture>student8.jpg</picture>
+        <name>Tu Tontawan</name>
+        <course>BSIT</course>
+        <yearLevel>3rd Year</yearLevel>
+        <section>3EG2</section>
+        <advisor>Mr. Eren Fajardo</advisor>
+        <schoolYear>2024-2025</schoolYear>
+    </student>
+    <student>
+        <picture>student9.jpg</picture>
+        <name>Prim Chanikarn</name>
+        <course>BSIT</course>
+        <yearLevel>3rd Year</yearLevel>
+        <section>3AG1</section>
+        <advisor>Ms. Karen Lopez</advisor>
+        <schoolYear>2024-2025</schoolYear>
+    </student>
+    <student>
+        <picture>student10.jpg</picture>
+        <name>Love Pattranite</name>
+        <course>BSIT</course>
+        <yearLevel>3rd Year</yearLevel>
+        <section>3FG1</section>
+        <advisor>Mr. Eren Fajardo</advisor>
+        <schoolYear>2024-2025</schoolYear>
+    </student>
+</students>
